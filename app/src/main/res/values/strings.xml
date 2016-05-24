@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dysfunctional Layers</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Theme Name (has to be used for the naming of the apk´s and zips too-->
+    <string name="ThemeName">Dysfunctional Layers</string>
+
+    <!-- Name of the theme author -->
+    <string name="ThemeAuthor">Dustin Winings (D-FUSE)</string>
+
+    <!-- Short description of the theme -->
+    <string name="ThemeDescription">Change the headers in the quick settings panel</string>
+
+    <!-- Changelog -->
+    <string name="ThemeChangelog">Custom Headers</string>
+</resources>
